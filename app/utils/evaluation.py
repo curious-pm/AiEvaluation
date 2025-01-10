@@ -23,6 +23,7 @@ def evaluate_answers(mcq_df, answer_df):
     # Compare the options to determine correctness
     results_df["Correct"] = results_df["AI Answer Option"] == results_df["Correct Answer Option"]
     
+    
     # Calculate accuracy
     total_questions = len(results_df)
     correct_answers = results_df["Correct"].sum()

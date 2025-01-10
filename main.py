@@ -4,13 +4,12 @@ import os
 import pandas as pd
 import time  # For simulating progress during AI answer generation
 
+
 # Add the `app` directory to PYTHONPATH dynamically
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'app')))
 
 from utils.api_utils import get_gpt4_answer
 from utils.evaluation import evaluate_answers
-
-
 
 st.markdown("""
     <style>

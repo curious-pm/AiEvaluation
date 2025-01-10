@@ -9,6 +9,9 @@ def get_gpt4_answer(question, options):
         "api-key": API_KEY,
     }
 
+
+
+
     prompt = f"Here is a multiple-choice question:\n\n{question}\n"
     for i, option in enumerate(options, start=1):
         prompt += f"Option {chr(64 + i)}: {option}\n"
