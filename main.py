@@ -66,17 +66,17 @@ def initialize_sidebar():
                 <h3>🔗 Quick Links</h3>
                 <ul style='list-style-type: none; padding-left: 0;'>
                     <li style='margin: 0.5rem 0;'>
-                        <a href='https://github.com/your-repo-link' class='sidebar-link'>
+                        <a href='https://github.com/curious-pm/EvaluationSimulator-Playground' class='sidebar-link'>
                             📦 GitHub Repository
                         </a>
                     </li>
                     <li style='margin: 0.5rem 0;'>
-                        <a href='https://your-link-to-sample-mcq-csv' class='sidebar-link'>
+                        <a href='https://github.com/AjinkyaSambare/EvaluationSimulator-Playground/blob/main/TestData/sample_mcqs.csv' class='sidebar-link'>
                             📄 Sample MCQ CSV
                         </a>
                     </li>
                     <li style='margin: 0.5rem 0;'>
-                        <a href='https://your-link-to-sample-evaluation-csv' class='sidebar-link'>
+                        <a href='https://github.com/AjinkyaSambare/EvaluationSimulator-Playground/blob/main/TestData/sample_answers.csv' class='sidebar-link'>
                             📊 Sample Evaluation CSV
                         </a>
                     </li>
