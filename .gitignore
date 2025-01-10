@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / compiled Python files
+*.py[cod]
+__pycache__/
+*.so
+
+# C extensions
+*.c
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# PyInstaller
+# Usually these files are written by a Python script from a Windows executable created with PyInstaller
+*.manifest
+*.spec
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# VSCode settings
+.vscode/
+
+# Streamlit config and secrets
+.streamlit/secrets.toml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# IDE and editor settings
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Anaconda
+*.conda
+*.ipynb
+*.yaml
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+*.temp
+*.old
+*.orig
+
+# Git-specific files
+*.patch
+*.rej
+*.un~
+
+# Streamlit static files
+.streamlit/
