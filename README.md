@@ -1,9 +1,9 @@
-
-
 ## Join the Community  
 [Join Curious PM Community](https://curious.pm/) to connect, share, and learn with others!
 
----
+--- 
+
+A Streamlit-based tool to generate AI answers for MCQs and evaluate accuracy against correct responses.
 
 ## About This Project
 
