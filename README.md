@@ -1,8 +1,10 @@
-## Text Embedding Playground
+## Join the Community
+[Join Curious PM Community](https://curious.pm) to connect, share, and learn with others!
+
 
 Explore the power of text embeddings through an interactive application that enables semantic analysis and visualization of text relationships.
 
-## Introduction
+## Text Embedding in AI
 
 This application demonstrates how text embeddings, generated using Azure OpenAI, can be used to perform tasks such as:
 - Analyzing similarity between texts
@@ -10,9 +12,6 @@ This application demonstrates how text embeddings, generated using Azure OpenAI,
 - Supporting applications like semantic search, recommendation systems, and more.
 
 It leverages **Streamlit** for the user interface, **Azure OpenAI's text-embedding-ada-002** for embedding generation, and tools like **scikit-learn** and **Plotly** for visualization.
-
-## Join the Community
-[Join Curious PM Community](https://nas.io/curious-pm) to connect, share, and learn with others!
 
 ---
 # Text Embedding Playground
