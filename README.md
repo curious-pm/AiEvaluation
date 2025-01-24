@@ -306,14 +306,15 @@ EvaluationSimulator/
 
 ## Screenshots
 
-# Uploading MCQs:
+### Uploading MCQs:
 <img src="https://github.com/user-attachments/assets/b02530ed-5c10-4fd9-9bd3-f1263b4631cc" style="width: 400px; image-rendering: optimizeSpeed;" alt="Uploading MCQs">
 
-# AI Generated Answers:
+### AI Generated Answers:
 <img src="https://github.com/user-attachments/assets/7b30006c-bf15-4de8-b2de-e21c82589644" style="width: 400px; image-rendering: optimizeSpeed;" alt="AI Generated Answers">
 
-# Evaluation Results:
+### Evaluation Results:
 <img src="https://github.com/user-attachments/assets/d223bd54-46b8-4b21-ac24-ef1d7f1eb72f" style="width: 400px; image-rendering: optimizeSpeed;" alt="Evaluation Results">
+
 ---
 
 ## Video Overview
