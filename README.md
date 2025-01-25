@@ -153,7 +153,7 @@ The closest phrases:
 ---
 
 ## Link to Hosted Version
-[View Live App](#) *(Insert actual deployment link here)*
+[View Live App](https://aievaluations.streamlit.app/)
 
 ---
 
